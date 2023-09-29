@@ -42,7 +42,7 @@ nav {
 
 
 #posts{
-    margin-top: -80px;
+    margin-top: -20px;
 }
 .text-1{
     color: white;
@@ -69,6 +69,17 @@ nav {
     background-color:rgb(237, 85, 108) ;
 }
 
+.card-4 {
+    display: block;
+    margin: auto;
+    width: 70%;
+
+}
+.card-5{
+    display: block;
+    margin: auto;
+    width: 70%;
+}
 
 footer{
     background-color: rgba(209, 7, 84, 0.994);
